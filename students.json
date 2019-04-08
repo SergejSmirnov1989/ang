@@ -1,0 +1,124 @@
+{
+  "students": [
+    {
+      "id": "8cgfup51oju4e4y5h",
+      "firstName": "Javon",
+      "lastName": "Watsica",
+      "birthday": "1987-03-08T18:37:10.975Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5i",
+      "firstName": "Marlen",
+      "lastName": "Zulauf",
+      "birthday": "1993-03-28T07:31:14.867Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5j",
+      "firstName": "Obie",
+      "lastName": "Spencer",
+      "birthday": "1997-07-14T11:05:13.866Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5k",
+      "firstName": "Stephania",
+      "lastName": "Moore",
+      "birthday": "1992-09-15T22:17:20.749Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5l",
+      "firstName": "Kellen",
+      "lastName": "Jacobs",
+      "birthday": "1993-01-26T09:32:52.377Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5m",
+      "firstName": "Ella",
+      "lastName": "Hamill",
+      "birthday": "1996-09-27T23:37:30.951Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5n",
+      "firstName": "Hipolito",
+      "lastName": "Wintheiser",
+      "birthday": "1997-03-06T23:26:10.141Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5o",
+      "firstName": "Etha",
+      "lastName": "Okuneva",
+      "birthday": "1985-07-12T01:33:55.884Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5p",
+      "firstName": "Dixie",
+      "lastName": "Gorczany",
+      "birthday": "1993-08-27T20:54:53.538Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5q",
+      "firstName": "Daniela",
+      "lastName": "Little",
+      "birthday": "1988-06-27T11:36:21.711Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5r",
+      "firstName": "Ursula",
+      "lastName": "Metz",
+      "birthday": "2001-12-30T06:47:31.161Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5s",
+      "firstName": "Elza",
+      "lastName": "Predovic",
+      "birthday": "1994-02-10T03:15:07.908Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5t",
+      "firstName": "Alexandre",
+      "lastName": "Bergstrom",
+      "birthday": "1990-12-03T22:47:25.987Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5u",
+      "firstName": "Judge",
+      "lastName": "Beier",
+      "birthday": "1995-01-06T14:57:53.000Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5v",
+      "firstName": "Kariane",
+      "lastName": "Daugherty",
+      "birthday": "1985-05-17T10:47:04.620Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5w",
+      "firstName": "Hosea",
+      "lastName": "Baumbach",
+      "birthday": "1996-04-04T21:58:14.858Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5x",
+      "firstName": "Durward",
+      "lastName": "Donnelly",
+      "birthday": "1988-02-28T06:12:31.400Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5y",
+      "firstName": "Marcelle",
+      "lastName": "Pouros",
+      "birthday": "1984-04-10T02:36:47.562Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y5z",
+      "firstName": "Clare",
+      "lastName": "Kovacek",
+      "birthday": "1986-08-29T10:30:07.668Z"
+    },
+    {
+      "id": "8cgfup51oju4e4y60",
+      "firstName": "Lourdes",
+      "lastName": "Lakin",
+      "birthday": "1989-01-15T20:19:18.257Z"
+    }
+  ]
+}

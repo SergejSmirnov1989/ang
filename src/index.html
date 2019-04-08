@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en" ng-app="appMessage">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+	      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+	<style>
+		body {
+			padding-top: 20px
+		}
+	</style>
+</head>
+<body ng-controller="appCtrl">
+	<div class="container">
+		<div class="row">
+			
+			<ul class="col-8 list-group">
+				<li
+						ng-repeat="student in students | orderBy: select"
+						class="list-group-item"
+				>
+					<div
+							class="float-left"
+					>
+						{{student.lastName}} {{student.firstName}} {{student.birthday | date:'yyyy-MM-dd'}}
+					</div>
+					<button
+							ng-click="handleStudentRemove(student.id)"
+							class="btn btn-primary float-right"
+					>
+						delete
+					</button>
+				</li>
+			</ul>
+			
+			<div class="col-4">
+				<select class="custom-select mb-2" ng-model="select">
+					<option selected value="firstName">in alphabetical order.</option>
+					<option value="birthday">on birthday</option>
+				</select>
+				<br>
+				<label class="d-block mb-2">enter first name
+					<input
+							type="text"
+							ng-model="firstName"
+							name="firstName"
+							class="form-control"
+					>
+				</label>
+				<label class="d-block mb-2">enter last name
+					<input
+							type="text"
+							ng-model="lastName"
+							name="lastName"
+							class="form-control"
+					>
+				</label>
+				<label class="d-block mb-2">enter last name
+					<input
+							type="date"
+							ng-model="birthday"
+							name="birthday"
+							class="form-control"
+					>
+				</label>
+				<button ng-click="handleAddStudent()" class="btn btn-primary">OK</button>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
